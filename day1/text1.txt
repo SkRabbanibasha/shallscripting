@@ -1,8 +1,15 @@
 abc
 hdkvhkcx
 dfgfdhk
+<<<<<<< HEAD
 pooiky
 djhgbkfdgn
 ffghgkfdhgkf
 ljlky
 khnh
+=======
+kgjfkjjb
+djhgbkfdgn
+ffghgkfdhgkf
+dnkhtf
+>>>>>>> b1013460f8def0d6ae499aca676a4cf9c9fcf48a
