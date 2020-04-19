@@ -1,0 +1,25 @@
+read -p "enter a num" num 
+#sum=o 
+#while(($num > 0)) 
+#do
+  #n=$(($num%10))
+ # sum=`expr $sum+$n`
+ # num=$(($num/10))
+ 
+#done
+#echo $sum
+#rev=0
+#while(($num > 0))
+#do
+   #R=$(($num%10))
+  # rev=`expr $rev*10+R`
+ #  num=$(($num/10))
+#done
+#echo $rev
+for ((i=1; i<=$num; i++))
+do
+  if(($i % 9 == 1))
+  then
+    echo "$i"
+  fi
+done
