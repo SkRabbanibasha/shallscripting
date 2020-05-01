@@ -1,0 +1,51 @@
+day-0 =: https://drive.google.com/file/d/1z8n9BXhokm9JVkLjcUJ84JVZFtt8U7ZC/view?usp=sharing
+Terminal commands:
+day-1 =: https://drive.google.com/file/d/1jSEHQVYM8qf0y9lI_-JdA3ZFwUxplVAA/view?usp=sharing
+day-2 =: https://drive.google.com/file/d/17r1NWm0T10-r-gpOP2OgNUT02sQW5r8k/view?usp=sharing
+day-3 =: https://drive.google.com/file/d/1qTlZ-6pq77mpAG6L8yE9Rhn35oIrOklh/view?usp=sharing
+day-3,commaoperations: https://drive.google.com/file/d/1-6ijXeqSWUhvqj84aRD0GsaL8Qb3TTql/view?usp=sharing
+day-3 =:https://drive.google.com/file/d/1x-hVbkQeoDzHpsYY3h_JHrEg6zWSwmPF/view?usp=sharing
+Programming constructions:
+day-5 =:https://drive.google.com/file/d/1vnbDDhL52bKDkWJRh8agvZ77NI5FEAmQ/view?usp=sharing
+day-5 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MDla/details
+day-5 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MDla/details
+day-5 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MDla/details
+day-5 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MDla/details
+day-5 assignment =:https://classroom.google.com/w/NjcwMzI0MzE3ODVa/t/all
+day-5 assignment =:https://classroom.google.com/w/NjcwMzI0MzE3ODVa/t/all
+day-6 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MTNa/details
+day-6 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MTNa/details
+day-6 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MTNa/details
+day-6 assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4MTVa/details
+day-6 assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4MTVa/details
+day-6 assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4MTVa/details
+day-7 =:https://classroom.google.com/w/NjcwMzI0MzE3ODVa/t/all
+day-7 assignment =:https://classroom.google.com/w/NjcwMzI0MzE3ODVa/t/all
+day-8 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MjFa/details
+day-8 assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4MjNa/details
+github:
+day-9 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4MjVa/details
+day-9 assignment git:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4Mjda/details
+Patterns and oops:
+day-13 =:https://classroom.google.com/w/NjcwMzI0MzE3ODVa/t/all
+day-14 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4Mzha/details
+day-14 assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4NDBa/details
+day-14 assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4NDBa/details
+day-15 =:https://classroom.google.com/w/NjcwMzI0MzE3ODVa/t/all
+day-15 assignment:https://classroom.google.com/w/NjcwMzI0MzE3ODVa/t/all
+day-15 assignment:https://classroom.google.com/w/NjcwMzI0MzE3ODVa/t/all
+day-15 assignment =:https://docs.google.com/forms/d/e/1FAIpQLSeBBPsjbtDMHoZl8xXWzp3AZESl8X0IWoHwu7pXBIAsjJvpBA/viewform?authuser=0
+day-15 assignment =:https://docs.google.com/forms/d/e/1FAIpQLSc-ys8w4EcUky1XrT3AoeMV26galha6Ok1XSvf6IhgU9Lvb9g/viewform
+day-15 assignment =:https://docs.google.com/forms/d/e/1FAIpQLScV_ItFKsruhqYCBMqnGfAJtDFfF_UFwiFR1J3oNQsvyBBAOA/viewform
+day-15 assignment =:https://docs.google.com/forms/d/e/1FAIpQLSfSe_iI6y2Ljs83-CJBowBq2xx30YsV-Gfdca6GKGKWs9lFtQ/viewform
+day-16 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4NDZa/details
+day-17 :https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4NDha/details
+java programming:
+day-19 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4NTFa/details
+day-19  assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4NTNa/details
+day-20:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4NTha/details
+day-20 assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4NjBa/details
+day-21 =:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4NjJa/details
+day-21 assignment:https://classroom.google.com/c/NjcwMzI0MzE3ODVa/a/NjcwMzI0MzE4NjRa/details
+day-22 =;https://classroom.google.com/c/NjcwMzI0MzE3ODVa/m/NjcwMzI0MzE4NjZa/detai
+day-22 assignment:
